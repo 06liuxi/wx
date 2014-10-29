@@ -2,51 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad0c4f63-29a2-4001-be28-591cb642992b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/left2.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/right2.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitattributes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/META-INF/MANIFEST.MF" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dragon/apps/web/config/MainConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__c3p0_c3p0_0_9_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jfinal_cos_26Dec2008.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jfinal_jetty_server_8_1_8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jfinal_jfinal_1_8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_16.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_20.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_continuation_8_1_8_v20121106.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_http_8_1_8_v20121106.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_8_1_8_v20121106.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_security_8_1_8_v20121106.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_server_8_1_8_v20121106.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_servlet_8_1_8_v20121106.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_8_1_8_v20121106.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_xml_8_1_8_v20121106.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_orbit_javax_servlet_3_0_0_v201112011016.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_20.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dragon/apps/web/controller/UserController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/a_little_config.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/js/jquery-1.4.4.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/user/login.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/css/manage.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wx.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/wx_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/wx_war_exploded.xml" />
     </list>
     <ignored path="wx.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -427,12 +383,17 @@
       <workItem from="1414597152432" duration="41000" />
       <workItem from="1414597279879" duration="17000" />
       <workItem from="1414597317716" duration="11000" />
-      <workItem from="1414597974176" duration="629000" />
+      <workItem from="1414597974176" duration="664000" />
     </task>
+    <task id="LOCAL-00001" summary="first">
+      <created>1414598629739</created>
+      <updated>1414598629739</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1198000" />
+    <option name="totallyTimeSpent" value="1233000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1932" height="1056" extended-state="0" />
@@ -452,6 +413,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -482,6 +444,8 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="first" />
+    <option name="LAST_COMMIT_MESSAGE" value="first" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
